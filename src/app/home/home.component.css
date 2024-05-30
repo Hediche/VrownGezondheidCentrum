@@ -1,0 +1,37 @@
+nav{
+background-color: lightgreen;
+padding: 20px;
+}
+ul {
+list-style-type: none;
+margin:0;
+padding:0;
+text-align: center;
+}
+li {
+display: inline;
+padding:30px;
+}
+a {
+color: black;
+font-size: large;
+font-weight: 900;
+text-decoration:none;
+}
+body{
+background-color: #ddddda;
+text-align:center;
+}
+img{
+width:730px;
+border-radius:10px;
+}
+h1{
+color: grey;
+text-align: center;
+font-family: cursive;
+}
+p{
+color: red;
+text-align: center;
+}
