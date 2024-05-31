@@ -1,11 +1,9 @@
 nav{
-background-color: lightgreen;
+background-color: lightgreen ;
 padding: 20px;
 }
 ul {
 list-style-type: none;
-margin:0;
-padding:0;
 text-align: center;
 }
 li {
@@ -13,18 +11,17 @@ display: inline;
 padding:30px;
 }
 a {
-color: black;
+color: blue;
 font-size: large;
 font-weight: 900;
 text-decoration:none;
 text-align: center;
-nav a:hover {
-  background-color: #ddd;
-  color: blue;
 }
+.topnav a:hover {
+  color: red;
 }
 body{
-background-color: #ddddda;
+background-color: tan;
 text-align:center;
 }
 img{
@@ -42,4 +39,8 @@ text-align: center;
 }
 form{
 margin:30px;
+}
+input{
+display: block;
+margin:10px;
 }
